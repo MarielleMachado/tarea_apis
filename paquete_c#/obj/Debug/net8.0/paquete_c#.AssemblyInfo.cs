@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("paquete_c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6678379de611504cfa89f457b2635585960109e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+610463edf65cce6438688a13f9b1cd4ce6f75352")]
 [assembly: System.Reflection.AssemblyProductAttribute("paquete_c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("paquete_c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
