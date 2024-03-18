@@ -1,0 +1,15 @@
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\bin\Debug\net8.0\paquete_c#.exe
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\bin\Debug\net8.0\paquete_c#.deps.json
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\bin\Debug\net8.0\paquete_c#.runtimeconfig.json
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\bin\Debug\net8.0\paquete_c#.dll
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\bin\Debug\net8.0\paquete_c#.pdb
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.AssemblyInfo.cs
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.sourcelink.json
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.dll
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\refint\paquete_c#.dll
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.pdb
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\paquete_c#.genruntimeconfig.cache
+C:\Users\marie\OneDrive\Documentos\ProyectosGit\tarea_apis\paquete_c#\obj\Debug\net8.0\ref\paquete_c#.dll
